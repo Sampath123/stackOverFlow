@@ -25,7 +25,10 @@ import javax.xml.bind.annotation.XmlRootElement;
 				+ " group by c.createDate"),
 		@NamedQuery(name = "Comment.findTopAvtiveUser", query = "SELECT NEW "
 				+ "com.hashedin.model.TopUserCommentCount(c.userId,count(c))"
-				+ " FROM Comment c  group by c.userId")
+				+ " FROM Comment c  group by c.userId"),
+		@NamedQuery(name = "Comment.findcorrelation", query = "SELECT NEW "
+						+ "com.hashedin.model.ReputationClass(c.reputation,count(c))"
+						+ "FROM Comment c  group by c.userId")
 
             })
 public class Comment {

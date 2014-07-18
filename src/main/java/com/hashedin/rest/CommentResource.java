@@ -22,6 +22,7 @@ import org.springframework.stereotype.Component;
 
 import com.hashedin.model.Comment;
 import com.hashedin.model.CommentsCountOverTime;
+import com.hashedin.model.ReputationClass;
 import com.hashedin.model.TopUserCommentCount;
 import com.hashedin.service.CommentService;
 
@@ -55,6 +56,15 @@ public class CommentResource {
 		System.out.println("called..............");
 		
 		return commentService.getNoOfEditedComments();
+	}
+	
+	@GET
+	@Produces({ MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML })
+	@Path("/correlation")
+	public List<ReputationClass> getCorrelation() {
+		System.out.println("called..............");
+		
+		return commentService.getCorrelation();
 	}
 	
 	@GET

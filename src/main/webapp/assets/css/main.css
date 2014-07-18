@@ -1,0 +1,59 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+.placeholders {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.placeholders h4 {
+  margin-bottom: 0;
+}
+.placeholder {
+  margin-bottom: 10px;
+}
+.placeholder img {
+  display: inline-block;
+  border-radius: 50%;
+  height: 80;
+  width: 100;
+}
+
+
+
+.name-required{
+	visibility:hidden;
+	
+	}
+.email-required{
+	visibility:hidden;
+	color:red;
+}
+
+.subject-required{
+	visibility:hidden;
+	color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+

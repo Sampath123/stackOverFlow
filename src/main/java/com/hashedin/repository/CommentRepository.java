@@ -4,6 +4,7 @@ import java.util.List;
 
 import com.hashedin.model.Comment;
 import com.hashedin.model.CommentsCountOverTime;
+import com.hashedin.model.ReputationClass;
 import com.hashedin.model.TopUserCommentCount;
 
 public interface CommentRepository {
@@ -23,6 +24,9 @@ public interface CommentRepository {
 	List<CommentsCountOverTime> getNoOfEditedComments();
 	
 	List<TopUserCommentCount> getTopActiveUserss();
+	
+	List<ReputationClass> getCorrelation();
+	
 	
 	
 

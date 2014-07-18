@@ -8,6 +8,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.hashedin.model.Comment;
 import com.hashedin.model.CommentsCountOverTime;
+import com.hashedin.model.ReputationClass;
 import com.hashedin.model.TopUserCommentCount;
 import com.hashedin.repository.CommentRepository;
 
@@ -63,5 +64,10 @@ public class CommentServiceImpl implements CommentService {
 	@Override
 	public List<TopUserCommentCount> getTopUserCommentCounts() {
 		return commentRepository.getTopActiveUserss();
+	}
+
+	@Override
+	public List<ReputationClass> getCorrelation() {
+		return commentRepository.getCorrelation();
 	}
 }

@@ -1,7 +1,10 @@
 package com.hashedin.repository;
 
 
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
+
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.TypedQuery;
@@ -10,6 +13,7 @@ import org.springframework.stereotype.Repository;
 
 import com.hashedin.model.Comment;
 import com.hashedin.model.CommentsCountOverTime;
+import com.hashedin.model.ReputationClass;
 import com.hashedin.model.TopUserCommentCount;
 
 @Repository("commentRepository")
@@ -77,7 +81,22 @@ public class CommentRepositoryImpl implements CommentRepository {
 	public List<TopUserCommentCount> getTopActiveUserss() {
 		TypedQuery<TopUserCommentCount> query = em
 				.createNamedQuery("Comment.findTopAvtiveUser",TopUserCommentCount.class);
-		List<TopUserCommentCount> results =  query.setFirstResult(0).setMaxResults(2).getResultList();
+		List<TopUserCommentCount> results =  query.getResultList();
+		
+//		Collections.sort(results, new Comparator<TopUserCommentCount>() {
+//	        public int compare(final TopUserCommentCount user1, final TopUserCommentCount user2) {
+//	            return Integer.user1.getCount().compareTo(Integer.user2.getCount());
+//	        }
+//	       } );
+		
+		return results;
+	}
+
+	@Override
+	public List<ReputationClass> getCorrelation() {
+		TypedQuery<ReputationClass> query = em
+				.createNamedQuery("Comment.findcorrelation",ReputationClass.class);
+		List<ReputationClass> results =  query.getResultList();
 		
 		return results;
 	}

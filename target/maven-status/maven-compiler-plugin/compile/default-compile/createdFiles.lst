@@ -3,6 +3,7 @@ com/hashedin/service/CommentServiceImpl.class
 com/hashedin/repository/CommentRepository.class
 com/hashedin/model/Comment.class
 com/hashedin/model/TopUserCommentCount.class
+com/hashedin/model/ReputationClass.class
 com/hashedin/repository/CommentRepositoryImpl.class
 com/hashedin/service/CommentService.class
 com/hashedin/controller/CommentController.class
