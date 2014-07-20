@@ -1,0 +1,46 @@
+ <div ng-controller="EditedCommentController">
+  <div class="col-md-12">
+  <h1>Edited Comments Over Time </h1>
+  </div>
+  
+  <div class="col-sm-1-12">
+  	<div class="col-sm-4">
+   		<div form="form">   
+   			<div class="form-group">
+          	<label for="name" required="required">From Date</label>
+          	<input type="date" class="form-control" id="fromdate" placeholder="From Date">
+        	</div>
+
+        	<div class="form-group">
+         	<label for="name" required="required">To Date</label>
+         	<input type="date" class="form-control" id="todate" placeholder="To Date">
+        	</div>    
+         
+           <div class="form-group">
+              <button type="submit" class="btn btn-2" id="sub">Submit</button>
+           </div>
+       </div>
+   	</div>
+  <div class=col-md-8">
+  <div ng-if="'editedcommentCount':google-chart="ColumnChart" ng-model="data1" class="bigGraph">
+  {{editedCommentCount}}
+  <div google-chart="ColumnChart" ng-model="data1" class="bigGraph"></div>
+  </div>	
+  </div>
+  </div>
+  
+  
+  <table class="table table-bordered table-hover">
+     <thead >
+  	   	<tr>
+			<td>Date</td>
+			<td>Comment Count</td>
+		</tr>
+	 </thead>
+	 <tbody>
+	 	<tr ng-repeat="editedcomment in EditedComment">
+		<td>{{ editedcomment.date}} </td>
+		<td> {{ editedcomment.count }} </td>
+	</tbody>    
+ </table>        
+</div>

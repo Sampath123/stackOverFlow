@@ -15,9 +15,10 @@
         <script src="assets/js/ngGoogleCharts.js" type="text/javascript"></script>
          
     <style type="text/css">
-             .bigGraph {width:1200px;height:590px;float:left;}
+             .bigGraph {width:1170px;height:450px;float:left;}
              .mediumGraph {width:570px;height:500px;float:left;}
              .smallGraph {width:200px;height:200px;float:left;}
+             .leftPlace{float:left;}
     </style>
    </head>
 <body class="container" ng-app="myApp">

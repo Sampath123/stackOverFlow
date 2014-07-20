@@ -1,0 +1,110 @@
+package com.hashedin.model;
+
+import java.util.Date;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.NamedQueries;
+import javax.persistence.NamedQuery;
+import javax.persistence.Table;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
+@Entity
+@Table(name = "commentBox")
+@NamedQueries({
+		@NamedQuery(name = "Comment.findAll", query = "SELECT c FROM Comment c"),
+		@NamedQuery(name = "Comment.findNoOfComments", query = "SELECT NEW "
+				+ "com.hashedin.model.CommentsCountOverTime(c.createDate,count(c)) "
+				+ "FROM Comment c group by c.createDate"),
+		@NamedQuery(name = "Comment.findNoOfEditedComments", query = "SELECT NEW "
+				+ "com.hashedin.model.CommentsCountOverTime(c.createDate,count(c)) "
+				+ "FROM Comment c where c.edited="
+				+ true
+				+ " group by c.createDate"),
+		@NamedQuery(name = "Comment.findTopAvtiveUser", query = "SELECT NEW "
+				+ "com.hashedin.model.TopUserCommentCount(c.userId,count(c))"
+				+ " FROM Comment c  group by c.userId"),
+		@NamedQuery(name = "Comment.findcorrelation", query = "SELECT NEW "
+						+ "com.hashedin.model.ReputationClass(c.reputation,count(c))"
+						+ "FROM Comment c  group by c.userId")
+
+            })
+public class Comment {
+
+	@Id
+	@GeneratedValue
+	private Long id;
+	private long commentId;
+	private boolean edited;
+	private Date creationDate;
+	private long userId;
+	private String userName;
+	private long reputation;
+
+	public Long getId() {
+		return id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}
+
+	public Date getCreateDate() {
+		return createDate;
+	}
+
+	public void setCreateDate(Date createDate) {
+		this.createDate = createDate;
+	}
+
+	public boolean isEdited() {
+		return edited;
+	}
+
+	public void setEdited(boolean edited) {
+		this.edited = edited;
+	}
+
+	public long getUserId() {
+		return userId;
+	}
+
+	public void setUserId(long userId) {
+		this.userId = userId;
+	}
+
+	public long getReputation() {
+		return reputation;
+	}
+
+	public void setReputation(long reputation) {
+		this.reputation = reputation;
+	}
+
+	public long getCommentId() {
+		return commentId;
+	}
+
+	public void setCommentId(long commentId) {
+		this.commentId = commentId;
+	}
+
+	public Date getCreationDate() {
+		return creationDate;
+	}
+
+	public void setCreationDate(Date creationDate) {
+		this.creationDate = creationDate;
+	}
+
+	public String getUserName() {
+		return userName;
+	}
+
+	public void setUserName(String userName) {
+		this.userName = userName;
+	}
+
+}

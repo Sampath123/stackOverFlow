@@ -1,0 +1,41 @@
+ <div ng-controller="CommentController">
+ 	<div class="container">
+		<h1>Comments Over Time </h1>
+	</div>
+	<div class="col-sm-1-12">
+  	<div class="col-sm-4">
+   		<div form="form">   
+   			<div class="form-group">
+          	<label for="name" required="required">Start Date</label>
+          	<input type="date" class="form-control leftPlace" id="startDate" placeholder="From Date">
+        	</div>
+
+        	<div class="form-group">
+         	<label for="name" required="required">End Date</label>
+         	<input type="date" class="form-control" id="endDate" placeholder="To Date">
+        	</div>    
+         
+           <div class="form-group">
+              <button type="Show" class="btn btn-2" id="show">Show</button>
+           </div>
+       </div>
+   	</div>
+    <div class=col-md-8 ">
+		<div google-chart="ColumnChart" ng-model="data1" class="bigGraph"></div>
+	</div>	
+</div>
+	<table class="table table-bordered table-hover">
+		<thead >
+			<tr >
+				<td>Date</td>
+				<td>Comment Count</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="comment in Comments">
+				<td>{{ comment.date}} </td>
+				<td> {{ comment.count }} </td>
+		    </tr>
+	   </tbody>    
+   </table>
+</div>

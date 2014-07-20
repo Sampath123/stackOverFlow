@@ -8,9 +8,9 @@ module.service(
                 return({
                    
                     getUsers: getUsers,
-                    getComments:getComments,
                     getEditedComments:getComments,
-                    getCorrelationData:getCorrelationData
+                    getComments:getComments,
+                    getCorrelationData:getCorrelationData,
                  
                 });
                 function getComments() {

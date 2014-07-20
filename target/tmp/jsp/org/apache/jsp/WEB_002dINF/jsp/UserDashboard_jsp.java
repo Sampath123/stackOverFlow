@@ -50,13 +50,13 @@ public final class UserDashboard_jsp extends org.apache.jasper.runtime.HttpJspBa
       out.write("\t<table class=\"table table-bordered table-hover\">\n");
       out.write("\t\t<thead >\n");
       out.write("\t\t\t<tr>\n");
-      out.write("\t\t\t\t<td>User ID</td>\n");
+      out.write("\t\t\t\t<td>User Name</td>\n");
       out.write("\t\t\t\t<td>Comment Count</td>\n");
       out.write("\t\t\t</tr>\n");
       out.write("\t\t</thead>\n");
       out.write("\t\t<tbody>\n");
       out.write("\t\t\t<tr ng-repeat=\"user in Users\">\n");
-      out.write("\t\t\t\t<td>{{ user.id }} </td>\n");
+      out.write("\t\t\t\t<td>{{ user.name }} </td>\n");
       out.write("\t\t\t\t<td> {{ user.count }} </td>\n");
       out.write("\t\t    </tr>\n");
       out.write("\t\t</tbody>    \n");

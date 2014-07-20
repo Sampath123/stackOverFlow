@@ -1,0 +1,101 @@
+var module=angular.module('myApp.services',[]);
+
+module.service(
+            "Userservice",
+            function( $http, $q ) {
+ 
+                // Return public API.
+                return({
+                   
+                    getUsers: getUsers,
+                    getComments:getComments,
+                    getEditedComments:getComments,
+                    getCorrelationData:getCorrelationData
+                 
+                });
+                function getComments() {
+                  	 
+                    var request = $http({
+                        method: "get",
+                        url: "http://localhost:8080/api/comments/commentsCount",
+                        params: {
+                            action: "get"
+                        }
+                    });
+ 
+                    return( request.then( handleSuccess, handleError ) );
+ 
+                }
+                
+                function getEditedComments() {
+                  	 
+                    var request = $http({
+                        method: "get",
+                        url: "http://localhost:8080/api/comments/editedCommentsCount",
+                        params: {
+                            action: "get"
+                        }
+                    });
+ 
+                    return( request.then( handleSuccess, handleError ) );
+ 
+                }
+                function getUsers() {
+                	 
+                    var request = $http({
+                        method: "get",
+                        url: "http://localhost:8080/api/comments/Top20ActiveUser",
+                        params: {
+                            action: "get"
+                        }
+                    });
+ 
+                    return( request.then( handleSuccess, handleError ) );
+ 
+                }
+                
+                function getCorrelationData() {
+                 	 
+                    var request = $http({
+                        method: "get",
+                        url: "http://localhost:8080/api/comments/correlation",
+                        params: {
+                            action: "get"
+                        }
+                    });
+ 
+                    return( request.then( handleSuccess, handleError ) );
+ 
+                }
+              
+                
+                function handleError( response ) {
+                	 
+                    // The API response from the server should be returned in a
+                    // nomralized format. However, if the request was not handled by the
+                    // server (or what not handles properly - ex. server error), then we
+                    // may have to normalize it on our end, as best we can.
+                    if (
+                        ! angular.isObject( response.data ) ||
+                        ! response.data.message
+                        ) {
+ 
+                        return( $q.reject( "An unknown error occurred." ) );
+ 
+                    }
+ 
+                    // Otherwise, use expected error message.
+                    return( $q.reject( response.data.message ) );
+ 
+                }
+ 
+ 
+                // I transform the successful response, unwrapping the application data
+                // from the API response payload.
+                function handleSuccess( response ) {
+ 
+                    return( response.data );
+ 
+                }
+ 
+});

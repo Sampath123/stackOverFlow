@@ -7,13 +7,13 @@
 	<table class="table table-bordered table-hover">
 		<thead >
 			<tr>
-				<td>User ID</td>
+				<td>User Name</td>
 				<td>Comment Count</td>
 			</tr>
 		</thead>
 		<tbody>
 			<tr ng-repeat="user in Users">
-				<td>{{ user.id }} </td>
+				<td>{{ user.name }} </td>
 				<td> {{ user.count }} </td>
 		    </tr>
 		</tbody>    

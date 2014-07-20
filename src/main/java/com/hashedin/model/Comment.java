@@ -12,19 +12,19 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
 @Entity
-@Table(name = "comments")
+@Table(name = "commentBox")
 @NamedQueries({
 		@NamedQuery(name = "Comment.findAll", query = "SELECT c FROM Comment c"),
 		@NamedQuery(name = "Comment.findNoOfComments", query = "SELECT NEW "
-				+ "com.hashedin.model.CommentsCountOverTime(c.createDate,count(c)) "
-				+ "FROM Comment c group by c.createDate"),
+				+ "com.hashedin.model.CommentsCountOverTime(c.creationDate,count(c)) "
+				+ "FROM Comment c group by c.creationDate"),
 		@NamedQuery(name = "Comment.findNoOfEditedComments", query = "SELECT NEW "
-				+ "com.hashedin.model.CommentsCountOverTime(c.createDate,count(c)) "
+				+ "com.hashedin.model.CommentsCountOverTime(c.creationDate,count(c)) "
 				+ "FROM Comment c where c.edited="
 				+ true
-				+ " group by c.createDate"),
+				+ " group by c.creationDate"),
 		@NamedQuery(name = "Comment.findTopAvtiveUser", query = "SELECT NEW "
-				+ "com.hashedin.model.TopUserCommentCount(c.userId,count(c))"
+				+ "com.hashedin.model.TopUserCommentCount(c.userName,count(c))"
 				+ " FROM Comment c  group by c.userId"),
 		@NamedQuery(name = "Comment.findcorrelation", query = "SELECT NEW "
 						+ "com.hashedin.model.ReputationClass(c.reputation,count(c))"
@@ -36,9 +36,11 @@ public class Comment {
 	@Id
 	@GeneratedValue
 	private Long id;
-	private Date createDate;
+	private long commentId;
 	private boolean edited;
+	private Date creationDate;
 	private long userId;
+	private String userName;
 	private long reputation;
 
 	public Long getId() {
@@ -49,12 +51,12 @@ public class Comment {
 		this.id = id;
 	}
 
-	public Date getCreateDate() {
-		return createDate;
+	public long getCommentId() {
+		return commentId;
 	}
 
-	public void setCreateDate(Date createDate) {
-		this.createDate = createDate;
+	public void setCommentId(long commentId) {
+		this.commentId = commentId;
 	}
 
 	public boolean isEdited() {
@@ -65,12 +67,28 @@ public class Comment {
 		this.edited = edited;
 	}
 
+	public Date getCreationDate() {
+		return creationDate;
+	}
+
+	public void setCreationDate(Date creationDate) {
+		this.creationDate = creationDate;
+	}
+
 	public long getUserId() {
 		return userId;
 	}
 
 	public void setUserId(long userId) {
 		this.userId = userId;
+	}
+
+	public String getUserName() {
+		return userName;
+	}
+
+	public void setUserName(String userName) {
+		this.userName = userName;
 	}
 
 	public long getReputation() {
@@ -80,5 +98,7 @@ public class Comment {
 	public void setReputation(long reputation) {
 		this.reputation = reputation;
 	}
+
+	
 
 }

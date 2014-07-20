@@ -1,10 +1,7 @@
 package com.hashedin.repository;
 
 
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
-
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.TypedQuery;
@@ -81,7 +78,7 @@ public class CommentRepositoryImpl implements CommentRepository {
 	public List<TopUserCommentCount> getTopActiveUserss() {
 		TypedQuery<TopUserCommentCount> query = em
 				.createNamedQuery("Comment.findTopAvtiveUser",TopUserCommentCount.class);
-		List<TopUserCommentCount> results =  query.getResultList();
+		List<TopUserCommentCount> results =  query.setFirstResult(0).setMaxResults(20).getResultList();
 		
 //		Collections.sort(results, new Comparator<TopUserCommentCount>() {
 //	        public int compare(final TopUserCommentCount user1, final TopUserCommentCount user2) {

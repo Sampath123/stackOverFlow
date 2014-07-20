@@ -58,9 +58,10 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("        <script src=\"assets/js/ngGoogleCharts.js\" type=\"text/javascript\"></script>\n");
       out.write("         \n");
       out.write("    <style type=\"text/css\">\n");
-      out.write("             .bigGraph {width:1200px;height:590px;float:left;}\n");
+      out.write("             .bigGraph {width:1170px;height:450px;float:left;}\n");
       out.write("             .mediumGraph {width:570px;height:500px;float:left;}\n");
       out.write("             .smallGraph {width:200px;height:200px;float:left;}\n");
+      out.write("             .leftPlace{float:left;}\n");
       out.write("    </style>\n");
       out.write("   </head>\n");
       out.write("<body class=\"container\" ng-app=\"myApp\">\n");

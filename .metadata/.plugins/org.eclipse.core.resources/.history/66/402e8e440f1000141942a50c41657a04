@@ -1,0 +1,22 @@
+ <div ng-controller="EditedCommentController">
+  <div class="col-md-12">
+  <h1>Edited Comments Over Time </h1>
+  </div>
+  <div ng-if="'editedcommentCount':google-chart="ColumnChart" ng-model="data1" class="bigGraph">
+  {{editedCommentCount}}
+  <div google-chart="ColumnChart" ng-model="data1" class="bigGraph"></div>
+  </div>	
+  <table class="table table-bordered table-hover">
+     <thead >
+  	   	<tr>
+			<td>Date</td>
+			<td>Comment Count</td>
+		</tr>
+	 </thead>
+	 <tbody>
+	 	<tr ng-repeat="editedcomment in EditedComment">
+		<td>{{ editedcomment.date}} </td>
+		<td> {{ editedcomment.count }} </td>
+	</tbody>    
+ </table>        
+</div>
