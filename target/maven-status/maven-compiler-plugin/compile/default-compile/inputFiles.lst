@@ -6,6 +6,7 @@
 /home/hasher/Desktop/CommentsSatck/src/main/java/com/hashedin/model/CommentsCountOverTime.java
 /home/hasher/Desktop/CommentsSatck/src/main/java/com/hashedin/controller/CommentController.java
 /home/hasher/Desktop/CommentsSatck/src/main/java/com/hashedin/controller/CommentControllerJPA.java
+/home/hasher/Desktop/CommentsSatck/src/main/java/com/hashedin/model/ActiveUser.java
 /home/hasher/Desktop/CommentsSatck/src/main/java/com/hashedin/model/TopUserCommentCount.java
 /home/hasher/Desktop/CommentsSatck/src/main/java/com/hashedin/model/ReputationClass.java
 /home/hasher/Desktop/CommentsSatck/src/main/java/com/hashedin/model/Comment.java

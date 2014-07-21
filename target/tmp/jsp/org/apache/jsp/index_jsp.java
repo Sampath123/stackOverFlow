@@ -50,6 +50,17 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("    \t<link href=\"assets/css/bootstrap-responsive.css\" rel=\"stylesheet\">\n");
       out.write("     \t<link href=\"assets/css/bootstrap.min.css\" rel=\"stylesheet\">\n");
       out.write("     \t<link href=\"assets/css/main.css\" rel=\"stylesheet\"> \n");
+      out.write("\n");
+      out.write("\n");
+      out.write("      <link href=\"http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css\" rel=\"stylesheet\">\n");
+      out.write("      <link rel=\"stylesheet\" type=\"text/css\" media=\"all\" href=\"assets/css/daterangepicker-bs3.css\" />\n");
+      out.write("      \n");
+      out.write("          <!--  <script type=\"text/javascript\" src=\"http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js\"></script> -->\n");
+      out.write("     \n");
+      out.write("      <script type=\"text/javascript\" src=\"assets/js/moment.js\"></script>\n");
+      out.write("      <script type=\"text/javascript\" src=\"assets/js/daterangepicker.js\"></script>          \t\n");
+      out.write("    \t<script type=\"text/javascript\" src=\"assets/js/ng-bs-daterangepicker.js\"></script>\n");
+      out.write("     \t\n");
       out.write("     \t<script src=\"https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.js\" type=\"text/javascript\"></script>\n");
       out.write("        <script src=\"https://www.google.com/jsapi\" type=\"text/javascript\"></script>\n");
       out.write("        <script src=\"assets/js/app.js\" type=\"text/javascript\"></script>\n");

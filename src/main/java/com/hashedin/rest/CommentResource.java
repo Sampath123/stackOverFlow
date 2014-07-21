@@ -2,6 +2,9 @@ package com.hashedin.rest;
 
 import java.net.URI;
 import java.net.URISyntaxException;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.List;
 
 import javax.servlet.http.HttpServletResponse;
@@ -13,6 +16,7 @@ import javax.ws.rs.PUT;
 import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
+import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.Context;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
@@ -20,10 +24,10 @@ import javax.ws.rs.core.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import com.hashedin.model.ActiveUser;
 import com.hashedin.model.Comment;
 import com.hashedin.model.CommentsCountOverTime;
 import com.hashedin.model.ReputationClass;
-import com.hashedin.model.TopUserCommentCount;
 import com.hashedin.service.CommentService;
 
 @Component
@@ -43,12 +47,37 @@ public class CommentResource {
 	@GET
 	@Produces({ MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML })
 	@Path("/commentsCount")
-	public List<CommentsCountOverTime> getNoOfComments() {
-		System.out.println("called..............");
+	public List<CommentsCountOverTime> getNoOfComments(
+			@QueryParam("startDate") String startDate,
+			@QueryParam("endDate") String endDate) {
+		if( startDate == null || endDate == null){	
 		
-		return commentService.getNoOfComments();
-	}
+		System.out.println("called..............");
+		return commentService.getNoOfCommentsAll();
 	
+		}
+		else {
+			
+			return commentService.getNoOfComments(getDate(startDate),getDate(endDate));	
+		}
+		}
+	
+	private Date getDate(String dateInput){ 
+		Date date=null;
+		SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
+	    String dateInString = dateInput;
+ 
+	try {
+ 
+		date = formatter.parse(dateInString);
+		System.out.println(date);
+		System.out.println(formatter.format(date));
+ 
+	} catch (ParseException e) {
+		e.printStackTrace();
+	}
+		return date;
+	}
 	@GET
 	@Produces({ MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML })
 	@Path("/editedCommentsCount")
@@ -70,7 +99,7 @@ public class CommentResource {
 	@GET
 	@Produces({ MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML })
 	@Path("/Top20ActiveUser")
-	public List<TopUserCommentCount> getTopUserCommentCounts() {
+	public List<ActiveUser> getTopUserCommentCounts() {
 		System.out.println("called..............");
 		
 		return commentService.getTopUserCommentCounts();

@@ -1,0 +1,117 @@
+package com.hashedin.repository;
+
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+import javax.persistence.TypedQuery;
+
+import org.springframework.stereotype.Repository;
+
+import com.hashedin.model.ActiveUser;
+import com.hashedin.model.Comment;
+import com.hashedin.model.CommentsCountOverTime;
+import com.hashedin.model.ReputationClass;
+import com.hashedin.model.TopUserCommentCount;
+
+@Repository("commentRepository")
+public class CommentRepositoryImpl implements CommentRepository {
+
+	@PersistenceContext
+	private EntityManager em;
+
+	public Comment find(Long commentId) {
+		// Returns the Comment for given CommentId.
+		return em.find(Comment.class, commentId);
+	}
+
+	public Comment save(Comment Comment) {
+		// Saves the given Comment object and returns the same.
+		em.persist(Comment);
+		em.flush();
+		return Comment;
+	}
+
+	@Override
+	public List<Comment> findAll() {
+		// Returns all the Comments in our system.
+		TypedQuery<Comment> query = em
+				.createNamedQuery("Comment.findAll", Comment.class);
+		List<Comment> results = query.getResultList();
+		return results;
+	}
+
+	@Override
+	public Comment update(Comment comment, Long commentId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Comment delete(Long commentId) {
+		Comment commentToBeDeleted = em.find(Comment.class, commentId);
+		em.remove(commentToBeDeleted);
+		return commentToBeDeleted;
+	}
+
+	@Override
+	public List<CommentsCountOverTime> getNoOfComments() {
+		TypedQuery<CommentsCountOverTime> query = em
+				.createNamedQuery("Comment.findNoOfComments",CommentsCountOverTime.class);
+		List<CommentsCountOverTime> results =  query.getResultList();
+		
+//		HashMap<Date, Long> res = new HashMap<Date, Long>();
+//		    for (CommentsCountOverTime firstChart : results)
+//		        res.put(firstChart.date, firstChart.count);
+		    return results;
+		
+	}
+
+	@Override
+	public List<CommentsCountOverTime> getNoOfEditedComments() {
+		TypedQuery<CommentsCountOverTime> query = em
+				.createNamedQuery("Comment.findNoOfEditedComments",CommentsCountOverTime.class);
+		List<CommentsCountOverTime> results =  query.getResultList();
+		return results;
+	}
+
+	@Override
+	public List<TopUserCommentCount> getTopActiveUserss() {
+		TypedQuery<TopUserCommentCount> query = em
+				.createNamedQuery("Comment.findTopAvtiveUser",TopUserCommentCount.class);
+		List<TopUserCommentCount> results =  query.getResultList();
+		
+		    List<ActiveUser> myList = new ArrayList<ActiveUser>();
+			List<ActiveUser> topActiveUser = new ArrayList<ActiveUser>();
+			for (TopUserCommentCount userresult:results){
+				myList.add(new ActiveUser(userresult.getName(),((int)(long)userresult.getCount())));
+			}
+			Collections.sort(myList, new Comparator<ActiveUser>() {
+
+		        public int compare(ActiveUser first,ActiveUser second) {
+		            return second.getCount().compareTo(first.getCount());
+		        }
+		    });
+			for (int topFive=0;topFive<20;topFive++) {
+				topActiveUser.add(myList.get(topFive));
+			}
+			return topActiveUser;
+	    }
+		
+		
+		
+
+
+	@Override
+	public List<ReputationClass> getCorrelation() {
+		TypedQuery<ReputationClass> query = em
+				.createNamedQuery("Comment.findcorrelation",ReputationClass.class);
+		List<ReputationClass> results =  query.getResultList();
+		
+		return results;
+	}
+}

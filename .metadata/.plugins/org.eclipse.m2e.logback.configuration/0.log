@@ -884,3 +884,1163 @@
 2014-07-20 19:07:46,241 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2014-07-20 19:07:46,242 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2014-07-20 19:07:46,243 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:23:46,202 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:23:46,203 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:23:46,204 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:23:46,204 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:24:21,445 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:24:21,445 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:24:21,448 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:24:21,448 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:24:45,879 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:24:45,880 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:24:45,881 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:24:45,881 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:25:19,934 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:25:19,934 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:25:19,935 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:25:19,936 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:25:37,281 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:25:37,282 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:25:37,283 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:25:37,283 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:37:35,701 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:37:35,702 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:37:35,704 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:37:35,705 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:38:02,034 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:38:02,034 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:38:02,035 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:38:02,035 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:38:16,816 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:38:16,816 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:38:16,817 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:38:16,817 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:38:38,479 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:38:38,480 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:38:38,481 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:38:38,481 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:38:58,702 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:38:58,702 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:38:58,703 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:38:58,703 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:39:50,670 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:39:50,671 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:39:50,672 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:39:50,672 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:40:25,952 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:40:25,952 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:40:25,954 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:40:25,954 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:40:28,171 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:40:28,171 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:40:28,173 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:40:28,173 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:41:07,716 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:41:07,716 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:41:07,717 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:41:07,718 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:41:20,626 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:41:20,626 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:41:20,628 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:41:20,629 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:42:01,884 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:42:01,884 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:42:01,886 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:42:01,887 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:42:09,091 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:42:09,092 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:42:09,093 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:42:09,093 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:42:13,097 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:42:13,097 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:42:13,098 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:42:13,099 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:42:44,422 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:42:44,423 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:42:44,424 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:42:44,424 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:47:26,426 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:47:26,426 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:47:26,427 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:47:26,428 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:48:59,931 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:48:59,932 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:48:59,933 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:48:59,933 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:51:41,065 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:51:41,066 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:51:41,067 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:51:41,067 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:54:42,377 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:54:42,378 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:54:42,379 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:54:42,379 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:55:00,123 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:55:00,124 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:55:00,125 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:55:00,125 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:56:31,514 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:56:31,515 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:56:31,517 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:56:31,517 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 20:57:42,373 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:57:42,373 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 20:57:42,374 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 20:57:42,374 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:12:05,711 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:12:05,711 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:12:05,713 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:12:05,713 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:12:31,294 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:12:31,294 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:12:31,295 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:12:31,295 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:12:44,543 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:12:44,544 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:12:44,545 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:12:44,545 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:12:50,983 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:12:50,983 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:12:50,985 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:12:50,985 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:12:54,256 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:12:54,257 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:12:54,259 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:12:54,259 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:24:49,406 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:24:49,406 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:24:49,408 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:24:49,408 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:25:05,520 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:25:05,520 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:25:05,522 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:25:05,523 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:31:03,047 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:31:03,048 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:31:03,049 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:31:03,049 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:31:19,651 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:31:19,651 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:31:19,653 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:31:19,654 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:32:09,739 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:32:09,740 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:32:09,742 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:32:09,742 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:32:39,750 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:32:39,750 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:32:39,751 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:32:39,751 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:32:45,063 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:32:45,063 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:32:45,064 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:32:45,064 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:32:58,015 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:32:58,015 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:32:58,017 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:32:58,017 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:33:26,120 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:33:26,120 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:33:26,122 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:33:26,123 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:33:44,913 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:33:44,913 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:33:44,914 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:33:44,914 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:33:55,159 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:33:55,160 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:33:55,161 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:33:55,161 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:34:42,976 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:34:42,976 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:34:42,977 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:34:42,977 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:34:47,879 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:34:47,879 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:34:47,880 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:34:47,880 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:35:05,174 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:35:05,175 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:35:05,176 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:35:05,176 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:35:24,067 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:35:24,068 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:35:24,069 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:35:24,069 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:36:54,989 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:36:54,991 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:36:54,993 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:36:54,993 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:37:19,638 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:37:19,638 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:37:19,639 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:37:19,639 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:37:34,354 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:37:34,355 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:37:34,358 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:37:34,358 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:37:52,059 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:37:52,060 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:37:52,061 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:37:52,061 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:38:13,464 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:38:13,464 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:38:13,465 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:38:13,465 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:38:53,154 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:38:53,155 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:38:53,155 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:38:53,156 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:40:35,552 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:40:35,552 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:40:35,553 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:40:35,553 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:41:56,215 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:41:56,215 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:41:56,216 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:41:56,217 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:41:58,254 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:41:58,254 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:41:58,255 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:41:58,255 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:42:13,353 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:42:13,353 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:42:13,354 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:42:13,354 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:42:18,778 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:42:18,779 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:42:18,780 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:42:18,780 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:42:21,150 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:42:21,151 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:42:21,152 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:42:21,152 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:42:31,856 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:42:31,857 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:42:31,858 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:42:31,858 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:42:50,817 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:42:50,817 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:42:50,818 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:42:50,818 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:42:56,653 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:42:56,654 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:42:56,655 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:42:56,655 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:51:43,053 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:51:43,053 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:51:43,054 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:51:43,054 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:51:50,575 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:51:50,575 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:51:50,576 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:51:50,577 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 21:52:00,534 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:52:00,534 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 21:52:00,535 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 21:52:00,536 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-20 23:13:44,593 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 23:13:44,594 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-20 23:13:44,595 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-20 23:13:44,595 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 00:03:49,640 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:03:49,642 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 00:03:49,644 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:03:49,644 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 00:03:58,427 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:03:58,429 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 00:03:58,431 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:03:58,432 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 00:04:31,842 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:04:31,844 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 00:04:31,846 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:04:31,846 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 00:04:34,209 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:04:34,210 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 00:04:34,212 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:04:34,212 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 00:05:10,818 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:05:10,820 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 00:05:10,822 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:05:10,822 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 00:12:58,263 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:12:58,264 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 00:12:58,265 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:12:58,265 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 00:13:35,394 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:13:35,395 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 00:13:35,396 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:13:35,397 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 00:13:48,660 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:13:48,660 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 00:13:48,661 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:13:48,661 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 00:13:58,140 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:13:58,140 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 00:13:58,141 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 00:13:58,142 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 09:36:05,826 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:36:05,827 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 09:36:05,828 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:36:05,829 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 09:36:28,198 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:36:28,198 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 09:36:28,200 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:36:28,200 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 09:41:40,432 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:41:40,432 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 09:41:40,433 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:41:40,434 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 09:41:48,813 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:41:48,813 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 09:41:48,816 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:41:48,816 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 09:48:09,340 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:48:09,340 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 09:48:09,341 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:48:09,342 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 09:48:45,076 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:48:45,076 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 09:48:45,077 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:48:45,077 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 09:49:43,658 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:49:43,659 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 09:49:43,660 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:49:43,660 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 09:53:23,715 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:53:23,715 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 09:53:23,716 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:53:23,717 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 09:53:35,925 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:53:35,925 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 09:53:35,926 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:53:35,926 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 09:53:39,134 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:53:39,135 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 09:53:39,136 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:53:39,136 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 09:54:05,185 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:54:05,186 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 09:54:05,187 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:54:05,187 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 09:59:07,107 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:59:07,107 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 09:59:07,109 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 09:59:07,110 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:00:35,426 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:00:35,427 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:00:35,428 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:00:35,428 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:01:04,218 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:01:04,219 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:01:04,220 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:01:04,221 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:01:13,565 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:01:13,565 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:01:13,566 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:01:13,567 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:01:50,271 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:01:50,272 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:01:50,273 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:01:50,273 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:02:07,603 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:02:07,604 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:02:07,605 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:02:07,605 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:02:32,318 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:02:32,319 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:02:32,320 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:02:32,321 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:02:35,031 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:02:35,032 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:02:35,033 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:02:35,033 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:08:06,988 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:08:06,989 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:08:06,990 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:08:06,991 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:21:23,078 [Worker-170] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:21:23,078 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:21:23,079 [Worker-170] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:21:23,080 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:24:16,168 [Worker-171] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:24:16,169 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:24:16,170 [Worker-171] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:24:16,171 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:31:44,418 [Worker-179] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:31:44,418 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:31:44,420 [Worker-179] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:31:44,420 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:32:03,942 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:32:03,942 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:32:03,944 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:32:03,945 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:34:26,577 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:34:26,577 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:34:26,579 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:34:26,580 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:37:48,773 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:37:48,773 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:37:48,775 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:37:48,775 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:38:06,341 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:38:06,341 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:38:06,343 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:38:06,343 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:41:03,677 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:41:03,677 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:41:03,678 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:41:03,679 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:41:17,815 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:41:17,816 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:41:17,817 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:41:17,817 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:41:56,950 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:41:56,950 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:41:56,951 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:41:56,951 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:42:02,046 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:42:02,047 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:42:02,048 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:42:02,048 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:43:49,023 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:43:49,023 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:43:49,024 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:43:49,025 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:45:03,161 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:45:03,162 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:45:03,163 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:45:03,163 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:45:11,385 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:45:11,386 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:45:11,387 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:45:11,387 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:45:13,786 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:45:13,787 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:45:13,788 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:45:13,788 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:49:35,874 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:49:35,875 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:49:35,876 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:49:35,877 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:49:56,728 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:49:56,728 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:49:56,729 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:49:56,730 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:52:45,986 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:52:45,987 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:52:45,988 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:52:45,989 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:53:42,981 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:53:42,981 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:53:42,983 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:53:42,984 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:54:06,405 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:54:06,405 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:54:06,406 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:54:06,407 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:54:59,093 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:54:59,094 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:54:59,095 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:54:59,095 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:55:07,669 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:55:07,669 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:55:07,670 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:55:07,670 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 10:55:46,489 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:55:46,489 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 10:55:46,490 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 10:55:46,490 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:02:17,947 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:02:17,948 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 11:02:17,949 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:02:17,950 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:04:24,371 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:04:24,373 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:04:24,376 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:04:24,376 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:07:39,431 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:07:39,432 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:07:39,433 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:07:39,434 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:08:05,198 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:08:05,200 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:08:05,202 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:08:05,203 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:08:31,058 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:08:31,059 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:08:31,061 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:08:31,061 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:09:34,979 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:09:34,981 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:09:34,982 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:09:34,983 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:09:47,823 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:09:47,824 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:09:47,825 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:09:47,826 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:10:58,505 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:10:58,506 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:10:58,507 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:10:58,507 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:11:25,360 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:11:25,361 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:11:25,362 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:11:25,362 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:11:30,727 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:11:30,728 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:11:30,730 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:11:30,730 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:11:38,788 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:11:38,789 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:11:38,790 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:11:38,790 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:11:58,267 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:11:58,268 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:11:58,269 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:11:58,270 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:12:12,227 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:12:12,228 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:12:12,229 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:12:12,229 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:12:36,458 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:12:36,459 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:12:36,461 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:12:36,461 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:12:43,777 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:12:43,778 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:12:43,779 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:12:43,780 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:13:38,959 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:13:38,959 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:13:38,961 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:13:38,961 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:14:36,390 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:14:36,391 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:14:36,393 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:14:36,393 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:14:42,851 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:14:42,852 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:14:42,854 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:14:42,854 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:14:45,393 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:14:45,394 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:14:45,396 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:14:45,396 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:16:08,234 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:16:08,235 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:16:08,237 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:16:08,237 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:17:54,659 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:17:54,660 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:17:54,662 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:17:54,662 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:20:02,151 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:20:02,152 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:20:02,153 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:20:02,153 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:20:58,267 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:20:58,268 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:20:58,270 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:20:58,270 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:21:19,980 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:21:19,981 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:21:19,983 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:21:19,983 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:21:37,461 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:21:37,462 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:21:37,464 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:21:37,464 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:21:43,086 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:21:43,087 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:21:43,089 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:21:43,090 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:22:10,131 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:22:10,132 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:22:10,134 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:22:10,135 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:25:26,559 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:25:26,559 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 11:25:26,561 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:25:26,561 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:26:28,920 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:26:28,920 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:26:28,921 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:26:28,922 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:26:30,097 [Worker-212] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:26:30,098 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:26:30,099 [Worker-212] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:26:30,099 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:26:43,075 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:26:43,076 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:26:43,078 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:26:43,078 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:26:44,150 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:26:44,151 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:26:44,152 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:26:44,152 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:27:00,224 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:27:00,225 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:27:00,227 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:27:00,227 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:27:13,496 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:27:13,497 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:27:13,498 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:27:13,498 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:27:39,476 [Worker-208] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:27:39,477 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:27:39,479 [Worker-208] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:27:39,479 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:27:40,503 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:27:40,504 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:27:40,505 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:27:40,506 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:27:44,931 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:27:44,932 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:27:44,934 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:27:44,934 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:28:20,050 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:28:20,050 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:28:20,052 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:28:20,052 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:29:01,169 [Worker-212] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:29:01,170 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:29:01,173 [Worker-212] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:29:01,174 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:40:33,530 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:40:33,532 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:40:33,534 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:40:33,535 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:46:38,437 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:46:38,438 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 11:46:38,439 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:46:38,440 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:47:08,281 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:47:08,283 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:47:08,285 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:47:08,285 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:47:11,171 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:47:11,172 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:47:11,174 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:47:11,174 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 11:47:16,915 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:47:16,916 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 11:47:16,918 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 11:47:16,918 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:02:46,762 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:02:46,762 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:02:46,764 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:02:46,764 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:03:33,545 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:03:33,546 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:03:33,547 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:03:33,548 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:03:47,706 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:03:47,706 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:03:47,708 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:03:47,708 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:04:34,905 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:04:34,905 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:04:34,907 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:04:34,907 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:04:51,857 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:04:51,858 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:04:51,860 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:04:51,860 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:04:54,054 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:04:54,055 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:04:54,056 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:04:54,057 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:08:36,746 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:08:36,748 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:08:36,750 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:08:36,751 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:08:55,828 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:08:55,829 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:08:55,832 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:08:55,833 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:09:31,734 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:09:31,737 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:09:31,739 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:09:31,740 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:09:37,396 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:09:37,397 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:09:37,399 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:09:37,399 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:09:44,453 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:09:44,455 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:09:44,457 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:09:44,457 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:17:21,435 [Worker-233] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:17:21,436 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:17:21,438 [Worker-233] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:17:21,439 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:21:55,909 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:21:55,910 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:21:55,912 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:21:55,912 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:33:07,508 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:33:07,509 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:33:07,510 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:33:07,511 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:33:17,670 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:33:17,671 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:33:17,673 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:33:17,673 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:33:55,040 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:33:55,041 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:33:55,042 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:33:55,042 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:34:14,033 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:34:14,034 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:34:14,035 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:34:14,035 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:34:19,313 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:34:19,314 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:34:19,315 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:34:19,315 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:35:08,076 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:35:08,077 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:35:08,078 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:35:08,079 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:35:15,003 [Worker-248] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:35:15,003 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:35:15,004 [Worker-248] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:35:15,005 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:36:31,566 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:36:31,567 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:36:31,570 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:36:31,571 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:36:50,179 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:36:50,179 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:36:50,180 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:36:50,181 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:36:56,203 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:36:56,204 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:36:56,206 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:36:56,206 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:37:38,413 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:37:38,414 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:37:38,417 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:37:38,418 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:38:01,718 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:38:01,719 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:38:01,721 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:38:01,721 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:38:33,902 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:38:33,903 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:38:33,905 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:38:33,905 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:38:51,754 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:38:51,755 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:38:51,757 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:38:51,757 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:43:50,631 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:43:50,631 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:43:50,632 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:43:50,633 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:43:52,873 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:43:52,873 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:43:52,874 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:43:52,875 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:45:00,095 [Worker-261] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:45:00,095 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:45:00,097 [Worker-261] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:45:00,097 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:45:56,630 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:45:56,630 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:45:56,633 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:45:56,633 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:46:09,383 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:46:09,384 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:46:09,385 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:46:09,386 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:46:40,063 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:46:40,064 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:46:40,065 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:46:40,066 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:47:08,189 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:47:08,190 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:47:08,192 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:47:08,192 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:47:32,683 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:47:32,684 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:47:32,685 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:47:32,686 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:47:43,515 [Worker-261] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:47:43,516 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:47:43,517 [Worker-261] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:47:43,517 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:47:54,832 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:47:54,832 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:47:54,834 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:47:54,834 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:48:05,147 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:48:05,148 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:48:05,150 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:48:05,150 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:48:51,957 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:48:51,957 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:48:51,959 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:48:51,960 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:48:54,690 [Worker-261] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:48:54,691 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:48:54,692 [Worker-261] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:48:54,692 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:49:07,241 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:49:07,241 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:49:07,242 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:49:07,243 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:49:24,735 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:49:24,735 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:49:24,737 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:49:24,737 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:49:43,233 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:49:43,234 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:49:43,236 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:49:43,237 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:49:55,587 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:49:55,588 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:49:55,589 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:49:55,589 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:50:05,696 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:50:05,697 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:50:05,700 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:50:05,701 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:50:06,886 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:50:06,887 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:50:06,888 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:50:06,888 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:50:19,507 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:50:19,508 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:50:19,509 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:50:19,509 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:50:41,998 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:50:41,999 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:50:42,001 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:50:42,001 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:51:19,769 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:51:19,769 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:51:19,771 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:51:19,771 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:51:38,701 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:51:38,702 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:51:38,704 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:51:38,704 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:52:04,331 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:52:04,332 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:52:04,334 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:52:04,334 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:52:12,418 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:52:12,419 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:52:12,420 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:52:12,420 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:52:41,023 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:52:41,023 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:52:41,024 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:52:41,025 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:53:06,937 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:53:06,938 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:53:06,939 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:53:06,940 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:53:24,948 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:53:24,948 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:53:24,950 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:53:24,950 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:54:32,687 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:54:32,688 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:54:32,689 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:54:32,690 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:54:48,155 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:54:48,156 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:54:48,159 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:54:48,159 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:54:52,329 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:54:52,330 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:54:52,331 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:54:52,331 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:54:54,881 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:54:54,882 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:54:54,884 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:54:54,885 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:55:59,981 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:55:59,982 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:55:59,984 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:55:59,984 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:56:11,508 [Worker-263] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:56:11,508 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:56:11,510 [Worker-263] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:56:11,510 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:57:53,622 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:57:53,623 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:57:53,626 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:57:53,627 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:57:57,947 [Worker-264] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:57:57,948 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:57:57,950 [Worker-264] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:57:57,951 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:58:05,025 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:58:05,026 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:58:05,028 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:58:05,028 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:58:07,331 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:58:07,332 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:58:07,334 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:58:07,334 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:58:08,381 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:58:08,383 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:58:08,386 [Worker-265] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:58:08,386 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 12:58:51,113 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:58:51,114 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 12:58:51,116 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 12:58:51,116 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:14:00,595 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:14:00,596 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:14:00,599 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:14:00,600 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:14:07,642 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:14:07,643 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:14:07,645 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:14:07,645 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:14:14,483 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:14:14,484 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:14:14,487 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:14:14,487 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:14:21,709 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:14:21,710 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:14:21,712 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:14:21,712 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:20:24,215 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:20:24,215 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:20:24,218 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:20:24,218 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:20:37,427 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:20:37,428 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:20:37,430 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:20:37,430 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:20:43,802 [Worker-285] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:20:43,803 [Worker-285] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:20:43,807 [Worker-285] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:20:43,807 [Worker-285] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:20:49,276 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:20:49,277 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:20:49,280 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:20:49,280 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:22:18,727 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:22:18,728 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:22:18,730 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:22:18,731 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:22:33,366 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:22:33,368 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:22:33,370 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:22:33,371 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:23:00,071 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:23:00,072 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:23:00,074 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:23:00,074 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:23:07,358 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:23:07,359 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:23:07,362 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:23:07,362 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:23:14,001 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:23:14,002 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:23:14,003 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:23:14,004 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:23:23,642 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:23:23,643 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:23:23,645 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:23:23,645 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:24:21,365 [Worker-282] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:24:21,366 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:24:21,367 [Worker-282] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:24:21,368 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:24:32,938 [Worker-282] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:24:32,940 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:24:32,942 [Worker-282] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:24:32,942 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:24:58,860 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:24:58,861 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:24:58,862 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:24:58,863 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:25:11,886 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:25:11,887 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:25:11,889 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:25:11,890 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:25:27,859 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:25:27,859 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:25:27,861 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:25:27,861 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:25:40,476 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:25:40,477 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:25:40,478 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:25:40,479 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:26:41,945 [Worker-284] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:26:41,946 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:26:41,949 [Worker-284] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:26:41,949 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:26:47,848 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:26:47,849 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:26:47,851 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:26:47,851 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:27:07,201 [Worker-284] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:27:07,202 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:27:07,203 [Worker-284] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:27:07,204 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:27:34,158 [Worker-282] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:27:34,159 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:27:34,161 [Worker-282] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:27:34,161 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:27:39,636 [Worker-284] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:27:39,637 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:27:39,639 [Worker-284] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:27:39,639 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:27:50,201 [Worker-286] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:27:50,202 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 13:27:50,205 [Worker-286] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:27:50,205 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:52:43,688 [Worker-297] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:52:43,689 [Worker-297] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 13:52:43,690 [Worker-297] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:52:43,690 [Worker-297] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 13:57:06,411 [Worker-301] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:57:06,411 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 13:57:06,413 [Worker-301] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 13:57:06,413 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:02:14,422 [Worker-305] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:02:14,423 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:02:14,424 [Worker-305] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:02:14,425 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:02:30,570 [Worker-306] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:02:30,571 [Worker-306] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:02:30,572 [Worker-306] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:02:30,572 [Worker-306] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:02:36,384 [Worker-305] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:02:36,384 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:02:36,385 [Worker-305] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:02:36,386 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:17:34,993 [Worker-314] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:17:34,993 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:17:34,995 [Worker-314] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:17:34,995 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:17:37,476 [Worker-305] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:17:37,476 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:17:37,477 [Worker-305] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:17:37,478 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:18:18,657 [Worker-317] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:18:18,658 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:18:18,659 [Worker-317] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:18:18,659 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:18:47,148 [Worker-313] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:18:47,149 [Worker-313] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:18:47,150 [Worker-313] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:18:47,150 [Worker-313] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:18:57,138 [Worker-312] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:18:57,139 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:18:57,140 [Worker-312] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:18:57,140 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:21:30,589 [Worker-314] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:21:30,589 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:21:30,604 [Worker-314] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:21:30,605 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:22:36,382 [Worker-317] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:22:36,383 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:22:36,384 [Worker-317] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:22:36,385 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:23:07,442 [Worker-317] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:23:07,442 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:23:07,443 [Worker-317] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:23:07,443 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:23:28,547 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:23:28,547 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:23:28,549 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:23:28,549 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:25:17,243 [Worker-315] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:25:17,243 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:25:17,244 [Worker-315] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:25:17,244 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:25:20,166 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:25:20,167 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-07-21 14:25:20,170 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:25:20,170 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:26:00,091 [Worker-315] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:26:00,091 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:26:00,092 [Worker-315] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:26:00,092 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:26:13,623 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:26:13,624 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:26:13,625 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:26:13,625 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:26:23,697 [Worker-317] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:26:23,697 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:26:23,698 [Worker-317] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:26:23,699 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:44:11,487 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:44:11,488 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:44:11,490 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:44:11,491 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:45:47,504 [Worker-323] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:45:47,504 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:45:47,506 [Worker-323] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:45:47,506 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:49:20,883 [Worker-325] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:49:20,883 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:49:20,885 [Worker-325] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:49:20,885 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:49:28,818 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:49:28,818 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:49:28,820 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:49:28,820 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:49:40,234 [Worker-327] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:49:40,235 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:49:40,236 [Worker-327] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:49:40,236 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:49:57,586 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:49:57,587 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:49:57,588 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:49:57,588 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:50:06,251 [Worker-323] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:50:06,251 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:50:06,252 [Worker-323] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:50:06,253 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:51:44,886 [Worker-329] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:51:44,887 [Worker-329] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:51:44,888 [Worker-329] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:51:44,888 [Worker-329] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:52:05,152 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:52:05,153 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:52:05,154 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:52:05,154 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:52:30,808 [Worker-330] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:52:30,809 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:52:30,810 [Worker-330] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:52:30,810 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:52:51,209 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:52:51,210 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:52:51,211 [Worker-319] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:52:51,211 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:53:02,298 [Worker-328] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:53:02,298 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:53:02,300 [Worker-328] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:53:02,300 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:53:31,857 [Worker-330] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:53:31,857 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:53:31,859 [Worker-330] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:53:31,859 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:54:32,565 [Worker-328] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:54:32,566 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:54:32,567 [Worker-328] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:54:32,567 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:55:28,132 [Worker-329] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:55:28,132 [Worker-329] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:55:28,133 [Worker-329] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:55:28,134 [Worker-329] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:56:08,310 [Worker-333] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:56:08,310 [Worker-333] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:56:08,311 [Worker-333] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:56:08,311 [Worker-333] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources
+2014-07-21 14:56:15,994 [Worker-332] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:56:15,994 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-21 14:56:15,995 [Worker-332] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-21 14:56:15,996 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hasher/Desktop/CommentsSatck/src/test/resources

@@ -17,15 +17,23 @@ import javax.xml.bind.annotation.XmlRootElement;
 		@NamedQuery(name = "Comment.findAll", query = "SELECT c FROM Comment c"),
 		@NamedQuery(name = "Comment.findNoOfComments", query = "SELECT NEW "
 				+ "com.hashedin.model.CommentsCountOverTime(c.creationDate,count(c)) "
-				+ "FROM Comment c group by c.creationDate"),
+				+ "FROM Comment c where c.creationDate>=:startDate and c.creationDate<=:endDate "
+				+ "group by c.creationDate"),
+				
+	   @NamedQuery(name = "Comment.findNoOfCommentsAll", query = "SELECT NEW "
+						+ "com.hashedin.model.CommentsCountOverTime(c.creationDate,count(c)) "
+						+ "FROM Comment c group by c.creationDate"),
+						
 		@NamedQuery(name = "Comment.findNoOfEditedComments", query = "SELECT NEW "
 				+ "com.hashedin.model.CommentsCountOverTime(c.creationDate,count(c)) "
 				+ "FROM Comment c where c.edited="
 				+ true
 				+ " group by c.creationDate"),
+				
 		@NamedQuery(name = "Comment.findTopAvtiveUser", query = "SELECT NEW "
 				+ "com.hashedin.model.TopUserCommentCount(c.userName,count(c))"
 				+ " FROM Comment c  group by c.userId"),
+				
 		@NamedQuery(name = "Comment.findcorrelation", query = "SELECT NEW "
 						+ "com.hashedin.model.ReputationClass(c.reputation,count(c))"
 						+ "FROM Comment c  group by c.userId")

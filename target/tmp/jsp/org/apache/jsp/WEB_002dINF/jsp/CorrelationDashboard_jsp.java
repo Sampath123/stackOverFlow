@@ -44,7 +44,7 @@ public final class CorrelationDashboard_jsp extends org.apache.jasper.runtime.Ht
       out.write("<div ng-controller=\"CorrelationController\">\n");
       out.write("\t<h1>Reputation to number of comments correlation </h1>\t\n");
       out.write("    <div google-chart=\"ScatterChart\" ng-model=\"data1\" class=\"bigGraph\"></div>\t\n");
-      out.write("\t<table class=\"table table-bordered table-hover\">\n");
+      out.write("\t<!-- <table class=\"table table-bordered table-hover\">\n");
       out.write("\t<thead ><tr >\n");
       out.write("\t<td>Reputation</td>\n");
       out.write("\t<td>Comment Count</td>\n");
@@ -55,7 +55,7 @@ public final class CorrelationDashboard_jsp extends org.apache.jasper.runtime.Ht
       out.write("\t<td>{{ data.reputation}} </td>\n");
       out.write("\t<td> {{ data.count }} </td>\n");
       out.write("\t</tbody>    \n");
-      out.write("\t</table>        \n");
+      out.write("\t</table>      -->   \n");
       out.write("\t\n");
       out.write("\t</div>\n");
     } catch (Throwable t) {

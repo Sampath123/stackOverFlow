@@ -45,20 +45,21 @@ public final class CommentsDashboard_jsp extends org.apache.jasper.runtime.HttpJ
       out.write(" \t<div class=\"container\">\n");
       out.write("\t\t<h1>Comments Over Time </h1>\n");
       out.write("\t</div>\n");
-      out.write("\t<div class=\"col-sm-1-12\">\n");
+      out.write("\t\n");
+      out.write(" <div class=\"col-sm-1-12\">\n");
       out.write("     \t\t<div form=\"form\">   \n");
       out.write("   \t\t\t<div class=\"form-group leftPlace\">\n");
       out.write("          \t<label for=\"name\" required=\"required\">Start Date</label>\n");
-      out.write("          \t<input type=\"date\" class=\"form-control \" id=\"startDate\" placeholder=\"From Date\">\n");
+      out.write("          \t<input type=\"date\" ng-model=\"fromDate\" class=\"form-control \" name=\"startDate\" placeholder=\"Start Date\">\n");
       out.write("        \t</div>\n");
       out.write("\n");
       out.write("        \t<div class=\"form-group leftPlace\">\n");
       out.write("         \t<label for=\"name\" required=\"required\">End Date</label>\n");
-      out.write("         \t<input type=\"date\" class=\"form-control \" id=\"endDate\" placeholder=\"To Date\">\n");
+      out.write("         \t<input type=\"date\" ng-model=\"endDate\" class=\"form-control \" name=\"endDate\" placeholder=\"End Date\">\n");
       out.write("        \t</div>    \n");
       out.write("         \n");
       out.write("           <div class=\"form-group leftPlace\"><br>\n");
-      out.write("             <button type=\"Show\" class=\"btn btn-2 btn-lg\" id=\"show\" style=\"background-color: #A4C8EC;\">Show </button>\n");
+      out.write("             <button type=\"Show\"  class=\"btn btn-2 btn-lg\" id=\"show\" style=\"background-color: #A4C8EC;\" ng-click=\"saveNew()\">Show </button>\n");
       out.write("           </div>\n");
       out.write("       </div>\n");
       out.write("   \t</div>\n");
@@ -66,7 +67,7 @@ public final class CommentsDashboard_jsp extends org.apache.jasper.runtime.HttpJ
       out.write("\t\t<div google-chart=\"ColumnChart\" ng-model=\"data1\" class=\"bigGraph\"></div>\n");
       out.write("\t</div>\t\n");
       out.write("</div>\n");
-      out.write("\t<table class=\"table table-bordered table-hover\">\n");
+      out.write("\t<!-- <table class=\"table table-bordered table-hover\">\n");
       out.write("\t\t<thead >\n");
       out.write("\t\t\t<tr >\n");
       out.write("\t\t\t\t<td>Date</td>\n");
@@ -74,12 +75,13 @@ public final class CommentsDashboard_jsp extends org.apache.jasper.runtime.HttpJ
       out.write("\t\t\t</tr>\n");
       out.write("\t\t</thead>\n");
       out.write("\t\t<tbody>\n");
-      out.write("\t\t\t<tr ng-repeat=\"comment in Comments\">\n");
+      out.write("\t\t//| getDates:fromDate:endDate\n");
+      out.write("\t\t\t<tr ng-repeat=\"comment in Comments \">\n");
       out.write("\t\t\t\t<td>{{ comment.date}} </td>\n");
       out.write("\t\t\t\t<td> {{ comment.count }} </td>\n");
       out.write("\t\t    </tr>\n");
       out.write("\t   </tbody>    \n");
-      out.write("   </table>\n");
+      out.write("   </table> -->\n");
       out.write("</div>\n");
     } catch (Throwable t) {
       if (!(t instanceof SkipPageException)){

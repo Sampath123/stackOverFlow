@@ -1,0 +1,8 @@
+package com.hashedin.model;
+
+public class ActiveUser {
+	
+	private String name;
+	private int count;
+
+}

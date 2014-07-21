@@ -64,11 +64,11 @@ public final class EditedCommentsDashboard_jsp extends org.apache.jasper.runtime
       out.write("       </div>\n");
       out.write("   \t</div>\n");
       out.write("    <div class=col-sm-12 \">\n");
-      out.write("\t\t<div google-chart=\"ColumnChart\" ng-model=\"data1\" class=\"bigGraph\"></div>\n");
+      out.write("\t\t<div google-chart=\"ColumnChart\" ng-model=\"data2\" class=\"bigGraph\"></div>\n");
       out.write("\t</div>\t\n");
       out.write("</div>\n");
       out.write("  \n");
-      out.write("  <table class=\"table table-bordered table-hover\">\n");
+      out.write("<!--   <table class=\"table table-bordered table-hover\">\n");
       out.write("     <thead >\n");
       out.write("  \t   \t<tr>\n");
       out.write("\t\t\t<td>Date</td>\n");
@@ -80,7 +80,7 @@ public final class EditedCommentsDashboard_jsp extends org.apache.jasper.runtime
       out.write("\t\t<td>{{ editedcomment.date}} </td>\n");
       out.write("\t\t<td> {{ editedcomment.count }} </td>\n");
       out.write("\t</tbody>    \n");
-      out.write(" </table>        \n");
+      out.write(" </table>         -->\n");
       out.write("</div>\n");
     } catch (Throwable t) {
       if (!(t instanceof SkipPageException)){

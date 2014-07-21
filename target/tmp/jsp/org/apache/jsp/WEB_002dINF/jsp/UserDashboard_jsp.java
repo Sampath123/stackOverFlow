@@ -47,7 +47,7 @@ public final class UserDashboard_jsp extends org.apache.jasper.runtime.HttpJspBa
       out.write("\t\t\t<div col-md-6  col-sm-12 col-xs-12 style=\"align:center;>\n");
       out.write("    \t\t\t<div \"google-chart=\"ColumnChart\" ng-model=\"data1\" class=\"bigGraph\"></div>\n");
       out.write("\t\t   </div>\n");
-      out.write("\t<table class=\"table table-bordered table-hover\">\n");
+      out.write(" <table class=\"table table-bordered table-hover\">\n");
       out.write("\t\t<thead >\n");
       out.write("\t\t\t<tr>\n");
       out.write("\t\t\t\t<td>User Name</td>\n");

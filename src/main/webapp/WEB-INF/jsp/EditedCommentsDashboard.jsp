@@ -21,11 +21,11 @@
        </div>
    	</div>
     <div class=col-sm-12 ">
-		<div google-chart="ColumnChart" ng-model="data1" class="bigGraph"></div>
+		<div google-chart="ColumnChart" ng-model="data2" class="bigGraph"></div>
 	</div>	
 </div>
   
-  <table class="table table-bordered table-hover">
+<!--   <table class="table table-bordered table-hover">
      <thead >
   	   	<tr>
 			<td>Date</td>
@@ -37,5 +37,5 @@
 		<td>{{ editedcomment.date}} </td>
 		<td> {{ editedcomment.count }} </td>
 	</tbody>    
- </table>        
+ </table>         -->
 </div>

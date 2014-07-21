@@ -19,6 +19,10 @@ myApp.controller("CommentController", function($scope, Userservice) {
 	// I contain the list of Users to be rendered.
 	$scope.Comments = [];
 	$scope.data1 = {};
+	
+//	$scope.fromDate="01/03/2014";
+//	$scope.endDate="31/03/2014";
+	
 	$scope.month={"01":"Jan","02":"Feb","03":"March"};
 	$scope.data1.dataTable = new google.visualization.DataTable();
 
@@ -34,6 +38,7 @@ myApp.controller("CommentController", function($scope, Userservice) {
 
 		$scope.data1.dataTable.addColumn("string", "Month");
 		$scope.data1.dataTable.addColumn("number", "CommentCount");
+		
 		console.log($scope.Comments.length);
 		for (var x = 0; x < $scope.Comments.length; x++) {
 			var dayVal = ($scope.Comments[x].date).toString().substring(10, 8);
@@ -57,17 +62,23 @@ myApp.controller("CommentController", function($scope, Userservice) {
 	}
 
 	$scope.data1.title = " Number Of Comments vs Time:";
+//	$scope.NewData = Userservice.list();
+	
+
+	
 
 });
+
+
 myApp.controller("EditedCommentController", function($scope, Userservice) {
 
 	// I contain the list of Users to be rendered.
 	$scope.EditedComment = [];
 
-	$scope.data1 = {};
+	$scope.data2 = {};
 	$scope.editedCommentCount=false;
 	$scope.month={"01":"Jan","02":"Feb","03":"March"};
-	$scope.data1.dataTable = new google.visualization.DataTable();
+	$scope.data2.dataTable = new google.visualization.DataTable();
 
 	// I contain the ng view values for template.
 
@@ -78,8 +89,8 @@ myApp.controller("EditedCommentController", function($scope, Userservice) {
 
 		$scope.EditedComment = newEditedComments;
 		
-		$scope.data1.dataTable.addColumn("string", "Month");
-		$scope.data1.dataTable.addColumn("number", "CommentCount");
+		$scope.data2.dataTable.addColumn("string", "Month");
+		$scope.data2.dataTable.addColumn("number", "CommentCount");
 		console.log("called");
 		console.log($scope.EditedComment.length);
         if($scope.EditedComment.length>=1){
@@ -88,7 +99,7 @@ myApp.controller("EditedCommentController", function($scope, Userservice) {
 			var dayVal = ($scope.EditedComment[x].date).toString().substring(10, 8);
 			var keyVal=($scope.EditedComment[x].date).toString().substring(7, 5);		
 			console.log($scope.month[keyVal]);		
-		    $scope.data1.dataTable.addRow([$scope.month[keyVal]+ dayVal,$scope.EditedComment[x].count ]);
+		    $scope.data2.dataTable.addRow([$scope.month[keyVal]+ dayVal,$scope.EditedComment[x].count ]);
 		   }
         }
              	
@@ -106,7 +117,7 @@ myApp.controller("EditedCommentController", function($scope, Userservice) {
 
 	}
 
-	$scope.data1.title = " Number Of Edited Comments vs Time:";
+	$scope.data2.title = " Number Of Edited Comments vs Time:";
 
 });
 
@@ -151,6 +162,7 @@ myApp.controller("UserController", function($scope, Userservice) {
 	}
 
 	$scope.data1.title = " TopUser vs CommentCount:";
+	
 
 });
 
@@ -178,7 +190,7 @@ myApp.controller("CorrelationController", function($scope, Userservice) {
 		for (var x = 0; x < $scope.correlationData.length; x++) {
 			$scope.data1.dataTable.addRow([
 					$scope.correlationData[x].reputation,
-					$scope.correlationData[x].count ]);
+					$scope.correlationData[x].count]);
 		}
 
 	}

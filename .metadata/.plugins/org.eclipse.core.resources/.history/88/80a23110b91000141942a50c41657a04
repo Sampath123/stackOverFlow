@@ -1,0 +1,115 @@
+var module=angular.module('myApp.services',[]);
+
+module.service(
+            "Userservice",
+            function( $http, $q ) {
+ 
+                // Return public API.
+                return({
+                   
+                    getUsers: getUsers,
+                    getEditedComments:getComments,
+                    getComments:getComments,
+                    getCorrelationData:getCorrelationData,
+                 
+                });
+                function getComments(startDate,endDate) {
+                  	 
+                    var request = $http({
+                        method: "get",
+                        url: "http://localhost:8080/api/comments/commentsCount?startDate=startDate4&endDate=endDate",
+                        params: {
+                            action: "get"
+                        }
+                    });
+ 
+                    return( request.then( handleSuccess, handleError ) );
+ 
+                }
+                
+//               this.list = function getCommentsFilter() {
+//                 	 
+//                    var request = $http({
+//                        method: "get",
+//                        url: "http://localhost:8080/api/comments/commentsCount?startDate=01/03/2014&endDate=31/03/2014",
+//                        params: {
+//                            action: "get"
+//                        }
+//                    });
+// 
+//                    return( request.then( handleSuccess, handleError ) );
+// 
+//                }
+//                
+                function getEditedComments() {
+                  	 
+                    var request = $http({
+                        method: "get",
+                        url: "http://localhost:8080/api/comments/editedCommentsCount",
+                        params: {
+                            action: "get"
+                        }
+                    });
+ 
+                    return( request.then( handleSuccess, handleError ) );
+ 
+                }
+                function getUsers() {
+                	 
+                    var request = $http({
+                        method: "get",
+                        url: "http://localhost:8080/api/comments/Top20ActiveUser",
+                        params: {
+                            action: "get"
+                        }
+                    });
+ 
+                    return( request.then( handleSuccess, handleError ) );
+ 
+                }
+                
+                function getCorrelationData() {
+                 	 
+                    var request = $http({
+                        method: "get",
+                        url: "http://localhost:8080/api/comments/correlation",
+                        params: {
+                            action: "get"
+                        }
+                    });
+ 
+                    return( request.then( handleSuccess, handleError ) );
+ 
+                }
+              
+                
+                function handleError( response ) {
+                	 
+                    // The API response from the server should be returned in a
+                    // nomralized format. However, if the request was not handled by the
+                    // server (or what not handles properly - ex. server error), then we
+                    // may have to normalize it on our end, as best we can.
+                    if (
+                        ! angular.isObject( response.data ) ||
+                        ! response.data.message
+                        ) {
+ 
+                        return( $q.reject( "An unknown error occurred." ) );
+ 
+                    }
+ 
+                    // Otherwise, use expected error message.
+                    return( $q.reject( response.data.message ) );
+ 
+                }
+ 
+ 
+                // I transform the successful response, unwrapping the application data
+                // from the API response payload.
+                function handleSuccess( response ) {
+ 
+                    return( response.data );
+ 
+                }
+ 
+});

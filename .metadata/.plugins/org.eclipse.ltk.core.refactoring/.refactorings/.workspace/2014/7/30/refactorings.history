@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;SpringJPAJerseyTemplate/src/main/webapp/assets/js/ng-bs-daterangepicker.min.js&apos;" deleteContents="false" description="Delete resource &apos;SpringJPAJerseyTemplate/src/main/webapp/assets/js/ng-bs-daterangepicker.min.js&apos;" element1="/SpringJPAJerseyTemplate/src/main/webapp/assets/js/ng-bs-daterangepicker.min.js" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1405915900216"/>
+</session>

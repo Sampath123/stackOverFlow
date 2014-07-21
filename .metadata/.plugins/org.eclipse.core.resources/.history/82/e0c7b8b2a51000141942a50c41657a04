@@ -1,0 +1,33 @@
+package com.hashedin.repository;
+
+import java.util.List;
+
+import com.hashedin.model.ActiveUser;
+import com.hashedin.model.Comment;
+import com.hashedin.model.CommentsCountOverTime;
+import com.hashedin.model.ReputationClass;
+
+public interface CommentRepository {
+
+	Comment find(Long commentId);
+
+	List<Comment> findAll();
+
+	Comment save(Comment comment);
+
+	Comment update(Comment comment, Long commentId);
+
+	Comment delete(Long commentId);
+
+	List<CommentsCountOverTime> getNoOfComments();
+
+	List<CommentsCountOverTime> getNoOfEditedComments();
+	
+	List<ActiveUser> getTopActiveUserss();
+	
+	List<ReputationClass> getCorrelation();
+	
+	
+	
+
+}
